@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chippee08
 - 👀 I’m interested in ... developing apps even though I have no idea how to, but I'm interested
-- 🌱 I’m currently learning ... c++
+- 🌱 I’m currently learning ... c++ <update> I'm currently learning OOP and Data Structures and algorithm in Java
 - 💞️ I’m looking to collaborate on ... I don't know, some future projects probably
 - 📫 How to reach me ... paolobanag08@gmail.com
 
