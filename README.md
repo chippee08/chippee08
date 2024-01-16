@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chippee08
-- 👀 I’m interested in ... developing apps even though I have no idea how to, but I'm interested
-- 🌱 I’m currently learning ... c++ <update> I'm currently learning OOP and Data Structures and algorithm in Java
-- 💞️ I’m looking to collaborate on ... I don't know, some future projects probably
-- 📫 How to reach me ... paolobanag08@gmail.com
+- 👋 Hi, I’m Paolo.
+- 👀 I’m interested in ... Web development especially in front-end.
+- 🌱 I’m currently learning ... intermidiate css and basic javascript.
+- 💞️ I’m looking to collaborate on ... future projects.
+- 📫 How to reach me ... paolobanaglorioso@gmail.com
 
 <!---
 chippee08/chippee08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
