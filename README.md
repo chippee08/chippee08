@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paolo.
 - 👀 I’m interested in ... Web development especially in front-end.
-- 🌱 I’m currently learning ... intermidiate css and basic javascript.
+- 🌱 I’m currently learning ... PHP and OOP PHP
 - 💞️ I’m looking to collaborate on ... future projects.
 - 📫 How to reach me ... paolobanaglorioso@gmail.com
 
